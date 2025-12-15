@@ -68,8 +68,5 @@ Learnings from Project Three: weight tracker app
 
 In Project Three, I gained valuable experience handling runtime permissions (like SEND_SMS), ensuring the app requests necessary permissions during runtime, not just in the manifest. I also learned how to preserve app data using onSaveInstanceState, which allowed me to maintain critical information (such as phone number and weight) when the activity was recreated. Additionally, I implemented the Room Persistence Library for managing the SQLite database, using background threads to avoid blocking the UI. These skills improved my ability to build more reliable and efficient mobile apps
 
-Conclusion
-
 This project allowed me to apply key principles of mobile app development, including UI/UX design, database management, and functional coding. It also gave me experience in testing, debugging, and refining my work to create a user-friendly mobile app. I look forward to continuing my growth in mobile app development and showcasing my future projects.
 
-Files Included:
